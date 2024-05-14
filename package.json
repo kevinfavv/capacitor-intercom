@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "SencropCapacitorIntercom.podspec"
+    "KevinfavCapacitorIntercom.podspec"
   ],
   "author": "Sencrop",
   "license": "MIT",
