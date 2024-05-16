@@ -1,7 +1,7 @@
 {
   "name": "@kevinfav/capacitor-intercom",
-  "version": "6.2.2",
-  "description": "Intercom Plugin for Capacitor 6+",
+  "version": "6.2.3",
+  "description": "Intercom Plugin for compatible with Capacitor 6+",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -13,14 +13,14 @@
     "ios/Plugin/",
     "KevinfavCapacitorIntercom.podspec"
   ],
-  "author": "Sencrop",
+  "author": "KevinFavv X Sencrop",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sencrop/capacitor-intercom.git"
+    "url": "git+https://github.com/kevinfavv/capacitor-intercom.git"
   },
   "bugs": {
-    "url": "https://github.com/sencrop/capacitor-intercom/issues"
+    "url": "https://github.com/kevinfavv/capacitor-intercom/issues"
   },
   "keywords": [
     "capacitor",
